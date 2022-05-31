@@ -1,0 +1,29 @@
+{
+    "List Title": "My Homework List",
+    "Submitted Assignments": [
+        {
+            "Expected Completion Date": 1,
+            "Title": "Project Deliverable 3",
+            "Due-Date": 1,
+            "Subject": "1"
+        },
+        {
+            "Expected Completion Date": 1,
+            "Title": "Project Deliverable 2",
+            "Due-Date": 1,
+            "Subject": "1"
+        },
+        {
+            "Expected Completion Date": 1,
+            "Title": "Project Deliverable 1",
+            "Due-Date": 1,
+            "Subject": "1"
+        }
+    ],
+    "Incomplete Assignments": [{
+        "Expected Completion Date": 1,
+        "Title": "Project Deliverable 4",
+        "Due-Date": 1,
+        "Subject": "1"
+    }]
+}
